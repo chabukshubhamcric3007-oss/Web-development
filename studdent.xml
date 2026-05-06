@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<students>
+  <student>
+    <rollno>101</rollno>
+    <name>Shivam</name>
+    <course>BCA</course>
+    <year>2nd Year</year>
+    <city>Pune</city>
+  </student>
+  <student>
+    <rollno>102</rollno>
+    <name>Rahul</name>
+    <course>BBA</course>
+    <year>1st Year</year>
+    <city>Mumbai</city>
+  </student>
+  <student>
+    <rollno>103</rollno>
+    <name>Priya</name>
+    <course>BSc</course>
+    <year>3rd Year</year>
+    <city>Nashik</city>
+  </student>
+  <student>
+    <rollno>104</rollno>
+    <name>Amit</name>
+    <course>BCom</course>
+    <year>2nd Year</year>
+    <city>Nagpur</city>
+  </student>
+  <student>
+    <rollno>105</rollno>
+    <name>Sneha</name>
+    <course>BA</course>
+    <year>1st Year</year>
+    <city>Kolhapur</city>
+  </student>
+  <student>
+    <rollno>106</rollno>
+    <name>Rohan</name>
+    <course>BTech</course>
+    <year>4th Year</year>
+    <city>Aurangabad</city>
+  </student>
+  <student>
+    <rollno>107</rollno>
+    <name>Pooja</name>
+    <course>BSc IT</course>
+    <year>3rd Year</year>
+    <city>Satara</city>
+  </student>
+  <student>
+    <rollno>108</rollno>
+    <name>Vikas</name>
+    <course>MBA</course>
+    <year>2nd Year</year>
+    <city>Solapur</city>
+  </student>
+</students>
